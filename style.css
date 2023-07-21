@@ -50,7 +50,6 @@ logo-slider {
     --image-size: #{$min-image-size};
     --image-size: min(max(#{$min-image-size}, 10vw), #{$max-image-size});
 	}
-
 }
 
 @keyframes marquee {
